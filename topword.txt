@@ -1,0 +1,7 @@
+1 this 10
+2 occurs 10
+3 line 10
+4 four 4
+5 three 3
+6 two 2
+7 one 1
